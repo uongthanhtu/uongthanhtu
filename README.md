@@ -1,6 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on: Open-source projects related to web development, game development, or educational tools.<br>🌱 I’m currently learning: Spring Boot for Java backend development and integrating SQL Server with full-stack web apps.<br>💬 Ask me about: Java OOP, database design for web applications, and handling game logic in JavaScript.<br>⚡ Fun fact: I once coded an entire Xiangqi (ChinaChess) engine from scratch in Java just for fun!
-
+I'm a backend developer
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tusry.uong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uongthanhtu/) 
