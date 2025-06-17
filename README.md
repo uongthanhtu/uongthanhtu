@@ -1,5 +1,15 @@
-# 💫 About Me:
-I'm a backend developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&center=true&vCenter=true&lines=Hi+There!👋;I'm+Uông+Thanh+Tú;Backend+Developer;Java+%7C+Spring+Boot+%7C+Spring+Security;Loves+clean+architecture+and+API+design" alt="Typing SVG" />
+</p>
+
+
+# 💫 About Me
+I'm a passionate **backend developer** with a strong focus on:
+
+- ☕ Java, **Spring Boot**, **Spring Security**, **Hibernate**, ORM, IoC, RESTful APIs  
+- 🔐 Security: **JWT**, **RBAC**, Authentication & Authorization  
+- 🚀 DevOps: CI/CD pipelines, exploring **Docker**, **AWS**, and system design  
+- 🧠 Passionate about writing clean, maintainable, and scalable code
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tusry.uong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uongthanhtu/) 
