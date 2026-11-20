@@ -21,13 +21,13 @@ I built **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** — an online C
 | **22,000+** games played | **100+** players and **500+** games on peak days |
 
 **What I built (solo):**
-- ⚡ **Real-time play** — STOMP/WebSocket game loop, matchmaking queues, server-side clocks and rule enforcement (perpetual-check / chase rules), ranked Elo, blitz mode.
-- 🧠 **Game analysis** — move-by-move post-game analysis backed by a shared pool of chess-engine processes with priority lanes, CPU isolation and back-pressure, so it stays fast at peak hours.
-- 📚 **Learning content** — a tournament database of **25,000+ master games** (as of Nov 2026; imported and verified), lessons, and — in progress — a leveled puzzle mode (410 classic-book puzzles in 13 levels, every solution engine-verified).
-- 🔐 **Security & reliability** — JWT auth, permission-based access, hardening after a pentest (fail2ban, rate limits, Redis auth), silent auto-recovery UX for older players, rollback-ready deploys.
-- 🚀 **Ops** — Docker Compose on a small VPS behind Nginx + Cloudflare, Postgres 16, Redis 7, a relay for slow networks, CI with SonarCloud, manual migration runbooks, quiet-hour deploy checks.
-- 📱 **Mobile** — React 19 + Capacitor app, Play Store releases (AAB), AdMob.
-- 🔎 **Growth** — pre-rendered SEO pages for tournaments and players, structured data, Search Console; an automated content pipeline (Telegram-driven YouTube/Facebook publishing, video rendering with Remotion/FFmpeg and Vietnamese TTS).
+- **Real-time play** — STOMP/WebSocket game loop, matchmaking queues, server-side clocks and rule enforcement (perpetual-check / chase rules), ranked Elo, blitz mode.
+- **Game analysis** — move-by-move post-game analysis backed by a shared pool of chess-engine processes with priority lanes, CPU isolation and back-pressure, so it stays fast at peak hours.
+- **Learning content** — a tournament database of **25,000+ master games** (as of Nov 2026; imported and verified), lessons, and — in progress — a leveled puzzle mode (410 classic-book puzzles in 13 levels, every solution engine-verified).
+- **Security & reliability** — JWT auth, permission-based access, hardening after a pentest (fail2ban, rate limits, Redis auth), silent auto-recovery UX for older players, rollback-ready deploys.
+- **Ops** — Docker Compose on a small VPS behind Nginx + Cloudflare, Postgres 16, Redis 7, a relay for slow networks, CI with SonarCloud, manual migration runbooks, quiet-hour deploy checks.
+- **Mobile** — React 19 + Capacitor app, Play Store releases (AAB), AdMob.
+- **Growth** — pre-rendered SEO pages for tournaments and players, structured data, Search Console; an automated content pipeline (Telegram-driven YouTube/Facebook publishing, video rendering with Remotion/FFmpeg and Vietnamese TTS).
 
 **Stack:** Java 21 · Spring Boot 3 · Spring Security · PostgreSQL 16 · Redis 7 · WebSocket (STOMP) · React 19 · TypeScript · Capacitor 8 · Nginx · Docker · Python · Node.js
 
