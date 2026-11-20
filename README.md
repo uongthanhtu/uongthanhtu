@@ -3,7 +3,7 @@
 **Full-stack developer (backend-focused) who ships and runs a real product.**
 I co-founded and build **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** — an online Chinese chess (xiangqi) platform for Android and the web — and I operate it end to end: backend, app, servers, releases, SEO and content.
 
-📍 Vietnam · 🎓 Software Engineering, FPT University · 🌐 [tusry.my](https://www.tusry.my) · 💼 [LinkedIn](https://www.linkedin.com/in/uongthanhtu/)
+🇻🇳 Vietnam · 🎓 Software Engineering, FPT University · 🌐 [tusry.my](https://www.tusry.my) · 💼 [LinkedIn](https://www.linkedin.com/in/uongthanhtu/)
 
 ---
 
