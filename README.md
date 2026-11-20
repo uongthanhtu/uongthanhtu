@@ -9,13 +9,13 @@ I co-founded and build **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** 
 
 ## Experience
 
-**Co-founder & Lead Developer — Tượng Kỳ Đại Sư** (Jul 2025 – Present)
+**Co-founder & Lead Developer — Tượng Kỳ Đại Sư** (Jul 2025 – Present)<br>
 Online xiangqi platform (Android + web), live in production — details below.
 
-**Full-stack Developer — Binh Furniture Company** (Jun 2026 – Present)
+**Full-stack Developer — Binh Furniture Company** (Jun 2026 – Present)<br>
 In-house ERP for an export furniture manufacturer, covering the product lifecycle from design to export.
 
-**Backend Developer Intern — FPT Software** (Sep–Dec 2025)
+**Backend Developer Intern — FPT Software** (Sep–Dec 2025)<br>
 ERP for a major Japanese steel-trading company: designed a DB-driven dynamic permission system and a multi-layer security chain (interceptors) for fine-grained access control; integration-tested security modules with QC through UAT.
 
 ---
