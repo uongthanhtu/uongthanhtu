@@ -10,7 +10,7 @@ I co-founded and build **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** 
 ## Experience
 
 **Co-founder & Lead Developer — Tượng Kỳ Đại Sư** (Jul 2025 – Present)<br>
-Online xiangqi platform (Android + web), live in production — details below.
+Online xiangqi platform (Android + web, iOS in progress), live in production — details below.
 
 **Full-stack Developer — Binh Furniture Company** (Jun 2026 – Present)<br>
 In-house ERP for an export furniture manufacturer, covering the product lifecycle from design to export.
@@ -25,6 +25,7 @@ ERP for a major Japanese steel-trading company: designed a DB-driven dynamic per
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Tượng_Kỳ_Đại_Sư-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tusry.xiangqi)
 [![Web](https://img.shields.io/badge/Web-tuongkydaisu.com-8a4b1f)](https://tuongkydaisu.com)
 [![YouTube](https://img.shields.io/badge/YouTube-@apptuongkydaisu-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@apptuongkydaisu)
+![iOS](https://img.shields.io/badge/iOS-coming_soon-lightgrey?logo=apple&logoColor=white)
 
 *Numbers as of 20 Nov 2026:*
 
@@ -39,7 +40,7 @@ ERP for a major Japanese steel-trading company: designed a DB-driven dynamic per
 - **Learning content** — a tournament database of **25,000+ master games** (as of Nov 2026; imported and verified), lessons, and — in progress — a leveled puzzle mode (410 classic-book puzzles in 13 levels, every solution engine-verified).
 - **Security & reliability** — JWT auth, permission-based access, hardening after a pentest (fail2ban, rate limits, Redis auth), silent auto-recovery UX for older players, rollback-ready deploys.
 - **Ops** — Docker Compose on a small VPS behind Nginx + Cloudflare, Postgres 16, Redis 7, a relay for slow networks, CI with SonarCloud, manual migration runbooks, quiet-hour deploy checks.
-- **Mobile** — React 19 + Capacitor app, Play Store releases (AAB), AdMob.
+- **Mobile** — React 19 + Capacitor app, Play Store releases (AAB), AdMob; **iOS app in progress**.
 - **Growth** — pre-rendered SEO pages for tournaments and players, structured data, Search Console; an automated content pipeline (Telegram-driven YouTube/Facebook publishing, video rendering with Remotion/FFmpeg and Vietnamese TTS).
 
 **Stack:** Java 21 · Spring Boot 3 · Spring Security · PostgreSQL 16 · Redis 7 · WebSocket (STOMP) · React 19 · TypeScript · Capacitor 8 · Nginx · Docker · Python · Node.js
