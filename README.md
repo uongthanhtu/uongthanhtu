@@ -1,13 +1,26 @@
 # Hi, I'm Tú (Uông Thanh Tú) 👋
 
-**Backend developer who ships and runs a real product.**
-I built **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** — an online Chinese chess (xiangqi) platform for Android and the web — and I operate it end to end: backend, app, servers, releases, SEO and content.
+**Full-stack developer (backend-focused) who ships and runs a real product.**
+I co-founded and build **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** — an online Chinese chess (xiangqi) platform for Android and the web — and I operate it end to end: backend, app, servers, releases, SEO and content.
 
 📍 Vietnam · 🎓 Software Engineering, FPT University · 🌐 [tusry.my](https://www.tusry.my) · 💼 [LinkedIn](https://www.linkedin.com/in/uongthanhtu/)
 
 ---
 
-## 🏁 Tượng Kỳ Đại Sư — live in production
+## Experience
+
+**Co-founder & Lead Developer — Tượng Kỳ Đại Sư** (Jul 2025 – Present)
+Online xiangqi platform (Android + web), live in production — details below.
+
+**Full-stack Developer — Binh Furniture Company** (Jun 2026 – Present)
+In-house ERP for an export furniture manufacturer, covering the product lifecycle from design to export.
+
+**Backend Developer Intern — FPT Software** (Sep–Dec 2025)
+ERP for a major Japanese steel-trading company: designed a DB-driven dynamic permission system and a multi-layer security chain (interceptors) for fine-grained access control; integration-tested security modules with QC through UAT.
+
+---
+
+## Tượng Kỳ Đại Sư — live in production
 
 [![Get it on Google Play](https://img.shields.io/badge/Google_Play-Tượng_Kỳ_Đại_Sư-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tusry.xiangqi)
 [![Web](https://img.shields.io/badge/Web-tuongkydaisu.com-8a4b1f)](https://tuongkydaisu.com)
@@ -20,7 +33,7 @@ I built **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** — an online C
 | **1K+** installs on Google Play · **4.3★** rating | **3,700+** player accounts (Android + web) |
 | **22,000+** games played | **100+** players and **500+** games on peak days |
 
-**What I built (solo):**
+**What I built:**
 - **Real-time play** — STOMP/WebSocket game loop, matchmaking queues, server-side clocks and rule enforcement (perpetual-check / chase rules), ranked Elo, blitz mode.
 - **Game analysis** — move-by-move post-game analysis backed by a shared pool of chess-engine processes with priority lanes, CPU isolation and back-pressure, so it stays fast at peak hours.
 - **Learning content** — a tournament database of **25,000+ master games** (as of Nov 2026; imported and verified), lessons, and — in progress — a leveled puzzle mode (410 classic-book puzzles in 13 levels, every solution engine-verified).
@@ -33,7 +46,7 @@ I built **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** — an online C
 
 ---
 
-## 🧩 Other projects
+## Other projects
 
 | Project | What it is | Stack |
 |---|---|---|
@@ -41,22 +54,6 @@ I built **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** — an online C
 | [spring-security-toolkit](https://github.com/uongthanhtu/spring-security-toolkit) | Plug-and-play security starter for Spring Boot 3: JWT, rate limiting, audit logging, method security | Java · Spring Security 6 |
 | [hiv-and-medical-system-backend](https://github.com/uongthanhtu/hiv-and-medical-system-backend) | Healthcare backend: appointments, ARV regimens, anonymous consultations, reminders, admin reporting | Java · Spring Boot · JWT · JPA |
 
-## 💼 Experience
-
-**Full-stack Developer — Binh Furniture Company** (Jun 2026 – Present)
-In-house ERP for an export furniture manufacturer, covering the product lifecycle from design to export.
-
-**Backend Developer Intern — FPT Software** (Sep–Dec 2025)
-ERP for a major Japanese steel-trading company: designed a DB-driven dynamic permission system and a multi-layer security chain (interceptors) for fine-grained access control; integration-tested security modules with QC through UAT.
-
-## 🛠️ What I'm good at
-
-- Designing APIs and data models that stay fast under real traffic
-- Real-time systems (WebSocket, queues, schedulers, locking)
-- Security: authN/authZ, permission models, hardening
-- Running production: monitoring, safe deploys, rollbacks, incident fixes
-- Shipping end to end — from database to Play Store listing
-
 ---
 
-<sub>Open to backend / full-stack roles. Reach me via [LinkedIn](https://www.linkedin.com/in/uongthanhtu/) or [tusry.my](https://www.tusry.my). · Last updated: 20 Nov 2026</sub>
+<sub>Feel free to reach out via [LinkedIn](https://www.linkedin.com/in/uongthanhtu/) or [tusry.my](https://www.tusry.my). · Last updated: 20 Nov 2026</sub>
