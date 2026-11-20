@@ -1,31 +1,59 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&center=true&vCenter=true&lines=Hi+There!👋;I'm+Uông+Thanh+Tú;Backend+Developer;Java+%7C+Spring+Boot+%7C+Spring+Security;Loves+clean+architecture+and+API+design" alt="Typing SVG" />
-</p>
+# Hi, I'm Tú (Uông Thanh Tú) 👋
 
+**Backend developer who ships and runs a real product.**
+I built **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** — an online Chinese chess (xiangqi) platform for Android and the web — and I operate it end to end: backend, app, servers, releases, SEO and content.
 
-# 💫 About Me
-I'm a passionate **backend developer** with a strong focus on:
-
-- ☕ Java, **Spring Boot**, **Spring Security**, **Hibernate**, ORM, IoC, RESTful APIs  
-- 🔐 Security: **JWT**, **RBAC**, Authentication & Authorization  
-- 🚀 DevOps: CI/CD pipelines, exploring **Docker**, **AWS**, and system design  
-- 🧠 Passionate about writing clean, maintainable, and scalable code
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/tusry.uong) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uongthanhtu/) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=uongthanhtu&bg_color=0d1b2a&title_color=3298dc&icon_color=1b263b&text_color=a8dadc&hide_border=false&include_all_commits=true&count_private=true)             ![](https://github-readme-stats.vercel.app/api/top-langs/?username=uongthanhtu&layout=compact&bg_color=0d1b2a&title_color=3298dc&text_color=a8dadc&hide_border=false&cache_seconds=60)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=uongthanhtu&hide_border=false&background=0d1b2a&border=1b263b&stroke=1b263b&ring=3298dc&fire=3298dc&currStreakNum=a8dadc&sideNums=a8dadc&currStreakLabel=a8dadc&sideLabels=a8dadc&dates=a8dadc)
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=uongthanhtu&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=uongthanhtu&limit=5&theme=dark&combine_all_yearly_contributions=true)
+📍 Vietnam · 🎓 Software Engineering, FPT University · 🌐 [tusry.my](https://www.tusry.my) · 💼 [LinkedIn](https://www.linkedin.com/in/uongthanhtu/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=uongthanhtu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🏁 Tượng Kỳ Đại Sư — live in production
+
+[![Get it on Google Play](https://img.shields.io/badge/Google_Play-Tượng_Kỳ_Đại_Sư-34A853?logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tusry.xiangqi)
+[![Web](https://img.shields.io/badge/Web-tuongkydaisu.com-8a4b1f)](https://tuongkydaisu.com)
+[![YouTube](https://img.shields.io/badge/YouTube-@apptuongkydaisu-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@apptuongkydaisu)
+
+*Numbers as of 20 Nov 2026:*
+
+| | |
+|---|---|
+| **1K+** installs on Google Play · **4.3★** rating | **3,700+** player accounts (Android + web) |
+| **22,000+** games played | **100+** players and **500+** games on peak days |
+
+**What I built (solo):**
+- ⚡ **Real-time play** — STOMP/WebSocket game loop, matchmaking queues, server-side clocks and rule enforcement (perpetual-check / chase rules), ranked Elo, blitz mode.
+- 🧠 **Game analysis** — move-by-move post-game analysis backed by a shared pool of chess-engine processes with priority lanes, CPU isolation and back-pressure, so it stays fast at peak hours.
+- 📚 **Learning content** — a tournament database of **25,000+ master games** (as of Nov 2026; imported and verified), lessons, and — in progress — a leveled puzzle mode (410 classic-book puzzles in 13 levels, every solution engine-verified).
+- 🔐 **Security & reliability** — JWT auth, permission-based access, hardening after a pentest (fail2ban, rate limits, Redis auth), silent auto-recovery UX for older players, rollback-ready deploys.
+- 🚀 **Ops** — Docker Compose on a small VPS behind Nginx + Cloudflare, Postgres 16, Redis 7, a relay for slow networks, CI with SonarCloud, manual migration runbooks, quiet-hour deploy checks.
+- 📱 **Mobile** — React 19 + Capacitor app, Play Store releases (AAB), AdMob.
+- 🔎 **Growth** — pre-rendered SEO pages for tournaments and players, structured data, Search Console; an automated content pipeline (Telegram-driven YouTube/Facebook publishing, video rendering with Remotion/FFmpeg and Vietnamese TTS).
+
+**Stack:** Java 21 · Spring Boot 3 · Spring Security · PostgreSQL 16 · Redis 7 · WebSocket (STOMP) · React 19 · TypeScript · Capacitor 8 · Nginx · Docker · Python · Node.js
+
+---
+
+## 🧩 Other projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Movie-Recommendation-Hybrid-Engine](https://github.com/uongthanhtu/Movie-Recommendation-Hybrid-Engine) | Multi-engine recommender: Social-LightGCN (graph neural CF with social contrastive learning), SASRec, TrustSVD, content-based + MMR diversification, benchmarked on 5 datasets | Python · PyTorch · FastAPI · Redis |
+| [spring-security-toolkit](https://github.com/uongthanhtu/spring-security-toolkit) | Plug-and-play security starter for Spring Boot 3: JWT, rate limiting, audit logging, method security | Java · Spring Security 6 |
+| [hiv-and-medical-system-backend](https://github.com/uongthanhtu/hiv-and-medical-system-backend) | Healthcare backend: appointments, ARV regimens, anonymous consultations, reminders, admin reporting | Java · Spring Boot · JWT · JPA |
+
+## 💼 Experience
+
+**Backend Developer Intern — FPT Software** (Sep–Dec 2025)
+ERP for a major Japanese steel-trading company: designed a DB-driven dynamic permission system and a multi-layer security chain (interceptors) for fine-grained access control; integration-tested security modules with QC through UAT.
+
+## 🛠️ What I'm good at
+
+- Designing APIs and data models that stay fast under real traffic
+- Real-time systems (WebSocket, queues, schedulers, locking)
+- Security: authN/authZ, permission models, hardening
+- Running production: monitoring, safe deploys, rollbacks, incident fixes
+- Shipping end to end — from database to Play Store listing
+
+---
+
+<sub>Open to backend / full-stack roles. Reach me via [LinkedIn](https://www.linkedin.com/in/uongthanhtu/) or [tusry.my](https://www.tusry.my). · Last updated: 20 Nov 2026</sub>
