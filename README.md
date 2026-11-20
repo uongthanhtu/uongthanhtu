@@ -43,6 +43,9 @@ I built **[Tượng Kỳ Đại Sư](https://tuongkydaisu.com)** — an online C
 
 ## 💼 Experience
 
+**Full-stack Developer — Binh Furniture Company** (Jun 2026 – Present)
+In-house ERP for an export furniture manufacturer, covering the product lifecycle from design to export.
+
 **Backend Developer Intern — FPT Software** (Sep–Dec 2025)
 ERP for a major Japanese steel-trading company: designed a DB-driven dynamic permission system and a multi-layer security chain (interceptors) for fine-grained access control; integration-tested security modules with QC through UAT.
 
